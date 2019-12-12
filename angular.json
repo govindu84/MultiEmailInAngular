@@ -28,9 +28,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+            "../ANGULAR8-APP/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": ["../ANGULAR8-APP/node_modules/jquery/dist/jquery.min.js","../ANGULAR8-APP/taginput.js"]
           },
           "configurations": {
             "production": {
